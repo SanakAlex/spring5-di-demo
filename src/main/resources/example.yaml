@@ -1,0 +1,33 @@
+# it's a comment
+
+name: Alex
+
+names: # Comment
+  - Alex
+  - Paul
+  - John
+
+pound_sign: "#"
+
+book:
+  author: Alex Sanak
+  publisher: GoodBooks
+
+thuth: yes
+another_truth: True
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+colon_string: "my coursers: one two three"
+
+include_new_lines: |
+  asdfasdf asdasd
+  sadfadsf adsfasdf
+  asdfdsaf asdfdsaf
+
+ignore_new_lines: >
+  this is
+  just one
+  long string
